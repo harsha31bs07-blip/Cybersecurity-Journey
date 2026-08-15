@@ -8,3 +8,5 @@ Finished the following rooms:
     Experience Cyber Security - Experience three different careers in cyber security.
     Search Skills - Learn how to use the internet to your advantage.
     Linux Fundamentals Part 1 - Learn how to use the Linux operating system, a critical skill in cyber security. 
+DAY 3
+Half finished 2 rooms , nmap and intro to web applications.
