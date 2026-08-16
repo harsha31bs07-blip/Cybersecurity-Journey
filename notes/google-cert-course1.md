@@ -8,3 +8,6 @@ Learned about cybersecurity ethics and principles.Laws , measures and types of a
 DAY 3
 Finished module 4 and hence completed the first course "Foundations of cybersecurity".
 Leaned about cybersecurity tools and usage directions.
+
+DAY 4
+Course 2 (Play It Safe): Module 1 complete, into Module 2 (frameworks, controls, CIA triad, OWASP intro)

@@ -10,3 +10,6 @@ Finished the following rooms:
     Linux Fundamentals Part 1 - Learn how to use the Linux operating system, a critical skill in cyber security. 
 DAY 3
 Half finished 2 rooms , nmap and intro to web applications.
+
+DAY 4
+TryHackMe: Web Application Basics room — 100% complete
