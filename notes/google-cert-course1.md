@@ -11,3 +11,6 @@ Leaned about cybersecurity tools and usage directions.
 
 DAY 4
 Course 2 (Play It Safe): Module 1 complete, into Module 2 (frameworks, controls, CIA triad, OWASP intro)
+
+DAY 5
+Course 2 : Part of Module 2 finished.
