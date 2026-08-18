@@ -16,3 +16,6 @@ TryHackMe: Web Application Basics room — 100% complete
 
 DAY 5
 TryHackMe: What is Networking? Room completed ,partially finished "Intro to LAN" room.
+
+DAY 6
+TryHackMe: Finished "Intro to LAN" and "nmap live host discovery" rooms.

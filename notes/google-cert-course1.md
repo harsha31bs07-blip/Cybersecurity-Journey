@@ -14,3 +14,6 @@ Course 2 (Play It Safe): Module 1 complete, into Module 2 (frameworks, controls,
 
 DAY 5
 Course 2 : Part of Module 2 finished.
+
+DAY 6
+Course 2 : Finished Module 2 and 3 , Learnt about security audits and conducted an audit in a demo company.
