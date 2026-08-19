@@ -19,3 +19,6 @@ TryHackMe: What is Networking? Room completed ,partially finished "Intro to LAN"
 
 DAY 6
 TryHackMe: Finished "Intro to LAN" and "nmap live host discovery" rooms.
+
+DAY 7
+TryHackMe: completed "Metasploit: Introduction" room and "fools mate" challenge room.

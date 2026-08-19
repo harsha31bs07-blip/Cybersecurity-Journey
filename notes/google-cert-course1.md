@@ -17,3 +17,7 @@ Course 2 : Part of Module 2 finished.
 
 DAY 6
 Course 2 : Finished Module 2 and 3 , Learnt about security audits and conducted an audit in a demo company.
+
+DAY 7
+Completed Course 2: Play It Safe — Manage Security Risks (Google Cert)
+Started Course 3: Connect and Protect — Networks and Network Security
