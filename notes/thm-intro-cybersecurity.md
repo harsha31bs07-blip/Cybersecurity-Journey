@@ -22,3 +22,6 @@ TryHackMe: Finished "Intro to LAN" and "nmap live host discovery" rooms.
 
 DAY 7
 TryHackMe: completed "Metasploit: Introduction" room and "fools mate" challenge room.
+
+DAY 8
+TryHackMe: completed Introduction to OWASP ZAP room.

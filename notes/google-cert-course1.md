@@ -21,3 +21,6 @@ Course 2 : Finished Module 2 and 3 , Learnt about security audits and conducted 
 DAY 7
 Completed Course 2: Play It Safe — Manage Security Risks (Google Cert)
 Started Course 3: Connect and Protect — Networks and Network Security
+
+DAY 8
+Course 3 (Connect and Protect): Module 1 complete, into Module 2 (network protocols, firewalls, wireless security)
