@@ -24,3 +24,9 @@ Started Course 3: Connect and Protect — Networks and Network Security
 
 DAY 8
 Course 3 (Connect and Protect): Module 1 complete, into Module 2 (network protocols, firewalls, wireless security)
+
+DAY 9
+Revised and summarised all the topics covered so far
+
+DAY 10
+Course 3 (Connect and Protect): Module 2 complete (network protocols, firewalls, wireless security)

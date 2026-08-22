@@ -25,3 +25,9 @@ TryHackMe: completed "Metasploit: Introduction" room and "fools mate" challenge 
 
 DAY 8
 TryHackMe: completed Introduction to OWASP ZAP room.
+
+DAY 9
+Finished a Recap session.
+
+DAY 10
+TryHackMe: completed Hydra room
