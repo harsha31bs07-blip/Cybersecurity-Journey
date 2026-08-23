@@ -30,3 +30,6 @@ Revised and summarised all the topics covered so far
 
 DAY 10
 Course 3 (Connect and Protect): Module 2 complete (network protocols, firewalls, wireless security)
+
+DAY 11
+Course 3 (Connect and Protect): Module 3 complete

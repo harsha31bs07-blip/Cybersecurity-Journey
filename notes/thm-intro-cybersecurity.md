@@ -31,3 +31,6 @@ Finished a Recap session.
 
 DAY 10
 TryHackMe: completed Hydra room
+
+DAY 11
+TryHackMe: Linux PrivEsc room — 42% complete (SUID/sudo/cron concepts, still in progress)
