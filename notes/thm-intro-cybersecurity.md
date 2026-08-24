@@ -37,3 +37,4 @@ TryHackMe: Linux PrivEsc room — 42% complete (SUID/sudo/cron concepts, still i
 
 DAY 12
 TryHackMe: Linux PrivEsc room — 100% complete
+Level 1 finished
