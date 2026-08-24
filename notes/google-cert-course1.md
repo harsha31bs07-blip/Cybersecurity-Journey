@@ -33,3 +33,6 @@ Course 3 (Connect and Protect): Module 2 complete (network protocols, firewalls,
 
 DAY 11
 Course 3 (Connect and Protect): Module 3 complete
+
+DAY 12
+Completed Course 3: Connect and Protect (Google Cybersecurity Cert) — 3 courses done
