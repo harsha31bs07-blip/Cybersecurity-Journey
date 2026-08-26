@@ -40,3 +40,6 @@ TryHackMe: Linux PrivEsc room — 100% complete
 
 DAY 13
 TryHackMe: Vulnversity — first full box completed
+
+DAY 14
+TryHackMe: Simple CTF — second full box rooted

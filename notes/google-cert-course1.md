@@ -39,3 +39,6 @@ Completed Course 3: Connect and Protect (Google Cybersecurity Cert) — 3 course
 
 DAY 13
 Course 4 (Tools of the Trade: Linux and SQL): Module 1 complete
+
+DAY 14
+Course 4 (Tools of the Trade: Linux and SQL): Module 2 complete
