@@ -43,3 +43,6 @@ TryHackMe: Vulnversity — first full box completed
 
 DAY 14
 TryHackMe: Simple CTF — second full box rooted
+
+DAY 15
+TryHackMe: Bounty Hacker rooted

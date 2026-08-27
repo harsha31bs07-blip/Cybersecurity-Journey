@@ -42,3 +42,6 @@ Course 4 (Tools of the Trade: Linux and SQL): Module 1 complete
 
 DAY 14
 Course 4 (Tools of the Trade: Linux and SQL): Module 2 complete
+
+DAY 15
+Course 4 (Tools of the Trade: Linux and SQL): Module 3 complete
