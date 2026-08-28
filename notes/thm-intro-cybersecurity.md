@@ -46,3 +46,6 @@ TryHackMe: Simple CTF — second full box rooted
 
 DAY 15
 TryHackMe: Bounty Hacker rooted
+
+DAY 16
+TryHackMe: Blue room — 85% complete (EternalBlue/MS17-010 exploitation via Metasploit)
