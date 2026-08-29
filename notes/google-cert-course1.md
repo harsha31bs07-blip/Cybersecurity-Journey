@@ -48,3 +48,6 @@ Course 4 (Tools of the Trade: Linux and SQL): Module 3 complete
 
 DAY 16
 Course 4 (Tools of the Trade): Module 4 — 50% complete
+
+DAY 17
+Completed Course 4: Tools of the Trade — Linux and SQL (4 courses done)

@@ -49,3 +49,7 @@ TryHackMe: Bounty Hacker rooted
 
 DAY 16
 TryHackMe: Blue room — 85% complete (EternalBlue/MS17-010 exploitation via Metasploit)
+
+DAY 17
+TryHackMe: Blue rooted (EternalBlue/MS17-010), Brute It rooted
+Level 2 fully complete: all tooling rooms + all 5 intro CTFs done
