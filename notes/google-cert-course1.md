@@ -51,3 +51,6 @@ Course 4 (Tools of the Trade): Module 4 — 50% complete
 
 DAY 17
 Completed Course 4: Tools of the Trade — Linux and SQL (4 courses done)
+
+DAY 18
+Course 5 (Assets, Threats, and Vulnerabilities): Module 1 complete, into Module 2
