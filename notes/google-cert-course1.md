@@ -54,3 +54,10 @@ Completed Course 4: Tools of the Trade — Linux and SQL (4 courses done)
 
 DAY 18
 Course 5 (Assets, Threats, and Vulnerabilities): Module 1 complete, into Module 2
+
+DAY 19
+Course 5 (Assets, Threats, and Vulnerabilities): Module 2 complete, into Module 3
+
+DAY 20
+Course 5 (Assets, Threats, and Vulnerabilities): Module 3 complete
+

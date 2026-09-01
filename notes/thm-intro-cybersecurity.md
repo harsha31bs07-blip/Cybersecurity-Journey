@@ -56,3 +56,9 @@ Level 2 fully complete: all tooling rooms + all 5 intro CTFs done
 
 DAY 18
 TryHackMe: Crack the Hash — 100% complete (Level 3 started)
+
+DAY 19
+TryHackMe: Agent Sudo Completed
+
+DAY 20
+TryHackMe: Encryption - Crypto 101 complete (Level 3)
