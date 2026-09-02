@@ -62,3 +62,6 @@ TryHackMe: Agent Sudo Completed
 
 DAY 20
 TryHackMe: Encryption - Crypto 101 complete (Level 3)
+
+DAY 21
+TryHackMe: Cod Caper room complete

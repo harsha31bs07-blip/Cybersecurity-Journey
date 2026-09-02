@@ -61,3 +61,5 @@ Course 5 (Assets, Threats, and Vulnerabilities): Module 2 complete, into Module 
 DAY 20
 Course 5 (Assets, Threats, and Vulnerabilities): Module 3 complete
 
+DAY 21
+Completed Course 5: Assets, Threats, and Vulnerabilities
