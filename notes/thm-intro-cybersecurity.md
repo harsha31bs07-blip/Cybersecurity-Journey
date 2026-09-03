@@ -65,3 +65,6 @@ TryHackMe: Encryption - Crypto 101 complete (Level 3)
 
 DAY 21
 TryHackMe: Cod Caper room complete
+
+DAY 22
+TryHackMe: SQL Injection room complete — connected theory to the CMS Made Simple exploit from Simple CTF
