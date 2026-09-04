@@ -66,3 +66,6 @@ Completed Course 5: Assets, Threats, and Vulnerabilities
 
 DAY 22
 Course 6 (Sound the Alarm: Detection and Response): Module 1 complete, into Module 2 (network monitoring, tcpdump/Wireshark)
+
+DAY 23
+Course 6 (Sound the Alarm): Module 2 complete (network monitoring, tcpdump/Wireshark)

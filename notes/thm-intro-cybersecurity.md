@@ -68,3 +68,6 @@ TryHackMe: Cod Caper room complete
 
 DAY 22
 TryHackMe: SQL Injection room complete — connected theory to the CMS Made Simple exploit from Simple CTF
+
+DAY 23
+TryHackMe: HTTP in Detail + DNS in Detail complete — core web fundamentals trio done (with SQL Injection)
