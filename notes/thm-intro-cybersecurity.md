@@ -71,3 +71,6 @@ TryHackMe: SQL Injection room complete — connected theory to the CMS Made Simp
 
 DAY 23
 TryHackMe: HTTP in Detail + DNS in Detail complete — core web fundamentals trio done (with SQL Injection)
+
+DAY 24
+TryHackMe: reviewed PortSwigger Burp docs, started Burp Suite: Repeater and OWASP Juice Shop intros
