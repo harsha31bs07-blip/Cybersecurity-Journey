@@ -72,3 +72,6 @@ Course 6 (Sound the Alarm): Module 2 complete (network monitoring, tcpdump/Wires
 
 DAY 24
 Course 6 (Sound the Alarm): Module 3 complete
+
+DAY 25
+Completed Course 6: Sound the Alarm — Detection and Response (6 of 9 courses done)

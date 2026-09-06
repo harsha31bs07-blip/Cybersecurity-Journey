@@ -74,3 +74,6 @@ TryHackMe: HTTP in Detail + DNS in Detail complete — core web fundamentals tri
 
 DAY 24
 TryHackMe: reviewed PortSwigger Burp docs, started Burp Suite: Repeater and OWASP Juice Shop intros
+
+DAY 25
+TryHackMe: Burp Suite: Repeater complete, OWASP Juice Shop complete
