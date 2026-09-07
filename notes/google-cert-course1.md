@@ -75,3 +75,6 @@ Course 6 (Sound the Alarm): Module 3 complete
 
 DAY 25
 Completed Course 6: Sound the Alarm — Detection and Response (6 of 9 courses done)
+
+DAY 26
+Course 7 (Automate Cybersecurity Tasks with Python): Module 1 complete

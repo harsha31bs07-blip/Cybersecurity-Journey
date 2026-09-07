@@ -77,3 +77,6 @@ TryHackMe: reviewed PortSwigger Burp docs, started Burp Suite: Repeater and OWAS
 
 DAY 25
 TryHackMe: Burp Suite: Repeater complete, OWASP Juice Shop complete
+
+DAY 26
+TryHackMe: Overpass rooted
