@@ -80,3 +80,6 @@ TryHackMe: Burp Suite: Repeater complete, OWASP Juice Shop complete
 
 DAY 26
 TryHackMe: Overpass rooted
+
+DAY 27
+TryHackMe: Bolt rooted (Bolt CMS, authenticated RCE)
