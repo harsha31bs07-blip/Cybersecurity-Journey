@@ -83,3 +83,6 @@ TryHackMe: Overpass rooted
 
 DAY 27
 TryHackMe: Bolt rooted (Bolt CMS, authenticated RCE)
+
+DAY 28
+TryHackMe: Takeover rooted (subdomain enumeration)

@@ -81,3 +81,6 @@ Course 7 (Automate Cybersecurity Tasks with Python): Module 1 complete
 
 DAY 27
 Course 7 (Automate Cybersecurity Tasks with Python): Module 2 complete
+
+DAY 28
+Course 7 (Automate Cybersecurity Tasks with Python): Module 3 complete
