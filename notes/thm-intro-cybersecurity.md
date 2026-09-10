@@ -86,3 +86,6 @@ TryHackMe: Bolt rooted (Bolt CMS, authenticated RCE)
 
 DAY 28
 TryHackMe: Takeover rooted (subdomain enumeration)
+
+DAY 29
+TryHackMe: Corridor rooted — Level 4: Web fully complete
