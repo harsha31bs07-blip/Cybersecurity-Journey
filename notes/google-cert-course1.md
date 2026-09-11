@@ -87,3 +87,6 @@ Course 7 (Automate Cybersecurity Tasks with Python): Module 3 complete
 
 DAY 29
 Completed Course 7: Automate Cybersecurity Tasks with Python (7 of 9 courses done)
+
+DAY 30
+Course 8 (Put It to Work: Prepare for Jobs): Module 1 complete

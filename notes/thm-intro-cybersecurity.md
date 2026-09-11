@@ -89,3 +89,6 @@ TryHackMe: Takeover rooted (subdomain enumeration)
 
 DAY 29
 TryHackMe: Corridor rooted — Level 4: Web fully complete
+
+DAY 30
+TryHackMe: Reversing ELF — 2 tasks complete
