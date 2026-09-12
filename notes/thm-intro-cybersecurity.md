@@ -92,3 +92,6 @@ TryHackMe: Corridor rooted — Level 4: Web fully complete
 
 DAY 30
 TryHackMe: Reversing ELF — 2 tasks complete
+
+DAY 31
+TryHackMe: Reversing ELF complete — first reverse engineering room done
