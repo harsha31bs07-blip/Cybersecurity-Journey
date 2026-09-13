@@ -93,3 +93,6 @@ Course 8 (Put It to Work: Prepare for Jobs): Module 1 complete
 
 DAY 31
 Course 8 (Put It to Work: Prepare for Jobs): Module 2 complete
+
+DAY 32
+Course 8 (Put It to Work: Prepare for Jobs): Module 3 complete
