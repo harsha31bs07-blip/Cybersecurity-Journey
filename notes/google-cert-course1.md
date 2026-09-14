@@ -96,3 +96,7 @@ Course 8 (Put It to Work: Prepare for Jobs): Module 2 complete
 
 DAY 32
 Course 8 (Put It to Work: Prepare for Jobs): Module 3 complete
+
+DAY 33
+COMPLETED: Google Cybersecurity Professional Certificate — all 9 courses done
+

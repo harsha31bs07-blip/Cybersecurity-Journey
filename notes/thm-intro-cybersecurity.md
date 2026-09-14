@@ -98,3 +98,7 @@ TryHackMe: Reversing ELF complete — first reverse engineering room done
 
 DAY 32
 TryHackMe: Windows x64 Assembly — 50% complete (registers, basic instructions)
+
+DAY 33
+TryHackMe: Windows x64 Assembly — Completed
+
