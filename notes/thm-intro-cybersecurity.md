@@ -102,3 +102,5 @@ TryHackMe: Windows x64 Assembly — 50% complete (registers, basic instructions)
 DAY 33
 TryHackMe: Windows x64 Assembly — Completed
 
+DAY 34
+TryHackMe: Windows Reverseing Room Completed
