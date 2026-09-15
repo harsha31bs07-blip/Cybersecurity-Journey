@@ -10,6 +10,8 @@ and preparing for CompTIA Security+ (SY0-701).
 ## Certifications
 - **Google Cybersecurity Professional Certificate** (Coursera) — Completed September 2026
   https://coursera.org/share/2380449183e65238a69ae4376c010348
+## 🔗 Links
+- TryHackMe Profile: https://tryhackme.com/p/harsha31bs07
 
 ## Tools & Skills
 Nmap, Metasploit, Burp Suite, Hydra, OWASP ZAP, John the Ripper,
