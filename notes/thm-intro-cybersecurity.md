@@ -104,3 +104,7 @@ TryHackMe: Windows x64 Assembly — Completed
 
 DAY 34
 TryHackMe: Windows Reverseing Room Completed
+
+DAY 35 
+TryHackMe: Basic Malware RE, Dumping Router Firmware, Dissecting PE Headers Rooms Completed
+
