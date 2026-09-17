@@ -108,3 +108,6 @@ TryHackMe: Windows Reverseing Room Completed
 DAY 35 
 TryHackMe: Basic Malware RE, Dumping Router Firmware, Dissecting PE Headers Rooms Completed
 
+DAY 36
+TryHackMe: What is Networking (recap) + Introduction to Networking complete (Level 6 started) + Network Services Complete
+
