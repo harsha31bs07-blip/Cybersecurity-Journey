@@ -111,3 +111,5 @@ TryHackMe: Basic Malware RE, Dumping Router Firmware, Dissecting PE Headers Room
 DAY 36
 TryHackMe: What is Networking (recap) + Introduction to Networking complete (Level 6 started) + Network Services Complete
 
+DAY 37
+TryHackMe: Network Services 2 complete (Level 6)
