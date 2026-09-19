@@ -113,3 +113,6 @@ TryHackMe: What is Networking (recap) + Introduction to Networking complete (Lev
 
 DAY 37
 TryHackMe: Network Services 2 complete (Level 6)
+
+DAY 38
+TryHackMe: Passive Recon + Active Recon complete (Level 6)
