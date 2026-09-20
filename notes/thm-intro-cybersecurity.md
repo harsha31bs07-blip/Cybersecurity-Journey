@@ -116,3 +116,7 @@ TryHackMe: Network Services 2 complete (Level 6)
 
 DAY 38
 TryHackMe: Passive Recon + Active Recon complete (Level 6)
+
+DAY 39
+TryHackMe: Nmap (deeper room) complete (Level 6)
+
