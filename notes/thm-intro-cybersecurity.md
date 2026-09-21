@@ -120,3 +120,5 @@ TryHackMe: Passive Recon + Active Recon complete (Level 6)
 DAY 39
 TryHackMe: Nmap (deeper room) complete (Level 6)
 
+DAY 40
+TryHackMe: Traffic Analysis Essentials complete (Level 6)
