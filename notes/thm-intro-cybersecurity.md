@@ -122,3 +122,10 @@ TryHackMe: Nmap (deeper room) complete (Level 6)
 
 DAY 40
 TryHackMe: Traffic Analysis Essentials complete (Level 6)
+
+DAY 41
+Revised core concepts.
+
+DAY 42
+TryHackMe: Snort Room complete (Level 6)
+
