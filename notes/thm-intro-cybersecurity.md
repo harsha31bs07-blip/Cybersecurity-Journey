@@ -132,4 +132,7 @@ TryHackMe: Snort Room complete (Level 6)
 DAY 43
 TryHackMe: Linux Privilege Escalation Room 50 % complete
 
+DAY 44
+TryHackMe: Linux Privilege Escalation Room 75 % complete
+
 
