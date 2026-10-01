@@ -135,4 +135,11 @@ TryHackMe: Linux Privilege Escalation Room 50 % complete
 DAY 44
 TryHackMe: Linux Privilege Escalation Room 75 % complete
 
+DAY 45-49
+Revising previous concepts and tools.
+
+DAY 50
+TryHackMe: Linux Privilege Escalation Room 75 % complete
+
+
 
