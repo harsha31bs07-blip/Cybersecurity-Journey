@@ -141,5 +141,13 @@ Revising previous concepts and tools.
 DAY 50
 TryHackMe: Linux Privilege Escalation Room 75 % complete
 
+DAY 51
+TryHackMe: Linux Privilege Escalation Room complete
+
+DAY 52-54
+TryHackMe: Windows Privilege Escalation Room complete
+
+
+
 
 
