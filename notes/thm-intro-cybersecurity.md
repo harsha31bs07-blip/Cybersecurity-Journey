@@ -147,6 +147,14 @@ TryHackMe: Linux Privilege Escalation Room complete
 DAY 52-54
 TryHackMe: Windows Privilege Escalation Room complete
 
+DAY 55
+TryHackMe: Windows PrivEsc Arena Room completed
+
+DAY 56
+TryHackMe: Sudo Security Bypass Room completed
+
+
+
 
 
 
