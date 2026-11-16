@@ -129,3 +129,9 @@ Revised core concepts.
 DAY 42
 TryHackMe: Snort Room complete (Level 6)
 
+DAY 43-80
+TryHackMe: steadily working through the new AI Security track, a few questions/day across: Threat Hunting Simulator: Health Hazard,Wi-Fi Fundamentals and Reconnaissance, Agentic Fundamentals,AI in the Modern SOC, AI Security Threats, AI Threat ModellingAssessment, AI Threat Modelling, Prompt Engineering, The Building Blocks of AI 
+Level 7 CTF boxes (Kenobi, Blaster, Ignite, C4ptur3-th3-Fl4g,Pickle Rick) still pending — deliberately paused for this AI track
+
+DAY 81
+TryHackMe: Sudo Buffer Overflow complete (CVE-2019-18634) — SudoVulns series fully done
