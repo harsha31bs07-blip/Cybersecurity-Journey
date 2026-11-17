@@ -153,6 +153,12 @@ TryHackMe: Windows PrivEsc Arena Room completed
 DAY 56
 TryHackMe: Sudo Security Bypass Room completed
 
+DAY 43-80
+TryHackMe: steadily working through the new AI Security track, a few questions/day across: Threat Hunting Simulator: Health Hazard,Wi-Fi Fundamentals and Reconnaissance, Agentic Fundamentals,AI in the Modern SOC, AI Security Threats etc.Level 7 CTF boxes (Kenobi, Blaster, Ignite, C4ptur3-th3-Fl4g,Pickle Rick) still pending — deliberately paused for this AI track.
+
+DAY 81
+TryHackMe: Sudo Buffer Overflow complete (CVE-2019-18634) — SudoVulns series fully done
+
 
 
 
