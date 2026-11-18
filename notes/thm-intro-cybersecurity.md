@@ -135,3 +135,9 @@ Level 7 CTF boxes (Kenobi, Blaster, Ignite, C4ptur3-th3-Fl4g,Pickle Rick) still 
 
 DAY 81
 TryHackMe: Sudo Buffer Overflow complete (CVE-2019-18634) — SudoVulns series fully done
+
+DAY 82
+TryHackMe: Kenobi complete
+
+DAY 83
+TryHackMe: Blaster complete
