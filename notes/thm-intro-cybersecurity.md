@@ -165,7 +165,8 @@ TryHackMe: Kenobi complete
 DAY 83
 TryHackMe: Blaster complete
 
-
+DAY 84
+TryHackMe: Ignite complete
 
 
 

@@ -1,0 +1,176 @@
+DAY 1
+Started tryhackme today and learnt about the cybersecurity principles and also made a suitable career goal in cybersecurity.
+
+DAY 2
+Finished the following rooms:
+    Intro to Offensive Security - Hack your first website (in a legal and safe environment) and experience an ethical hacker's job.
+    Intro to Defensive Security - Become a defender and stop a live attack.
+    Experience Cyber Security - Experience three different careers in cyber security.
+    Search Skills - Learn how to use the internet to your advantage.
+    Linux Fundamentals Part 1 - Learn how to use the Linux operating system, a critical skill in cyber security. 
+DAY 3
+Half finished 2 rooms , nmap and intro to web applications.
+
+DAY 4
+TryHackMe: Web Application Basics room — 100% complete
+
+DAY 5
+TryHackMe: What is Networking? Room completed ,partially finished "Intro to LAN" room.
+
+DAY 6
+TryHackMe: Finished "Intro to LAN" and "nmap live host discovery" rooms.
+
+DAY 7
+TryHackMe: completed "Metasploit: Introduction" room and "fools mate" challenge room.
+
+DAY 8
+TryHackMe: completed Introduction to OWASP ZAP room.
+
+DAY 9
+Finished a Recap session.
+
+DAY 10
+TryHackMe: completed Hydra room
+
+DAY 11
+TryHackMe: Linux PrivEsc room — 42% complete (SUID/sudo/cron concepts, still in progress)
+
+DAY 12
+TryHackMe: Linux PrivEsc room — 100% complete
+
+DAY 13
+TryHackMe: Vulnversity — first full box completed
+
+DAY 14
+TryHackMe: Simple CTF — second full box rooted
+
+DAY 15
+TryHackMe: Bounty Hacker rooted
+
+DAY 16
+TryHackMe: Blue room — 85% complete (EternalBlue/MS17-010 exploitation via Metasploit)
+
+DAY 17
+TryHackMe: Blue rooted (EternalBlue/MS17-010), Brute It rooted
+Level 2 fully complete: all tooling rooms + all 5 intro CTFs done
+
+DAY 18
+TryHackMe: Crack the Hash — 100% complete (Level 3 started)
+
+DAY 19
+TryHackMe: Agent Sudo Completed
+
+DAY 20
+TryHackMe: Encryption - Crypto 101 complete (Level 3)
+
+DAY 21
+TryHackMe: Cod Caper room complete
+
+DAY 22
+TryHackMe: SQL Injection room complete — connected theory to the CMS Made Simple exploit from Simple CTF
+
+DAY 23
+TryHackMe: HTTP in Detail + DNS in Detail complete — core web fundamentals trio done (with SQL Injection)
+
+DAY 24
+TryHackMe: reviewed PortSwigger Burp docs, started Burp Suite: Repeater and OWASP Juice Shop intros
+
+DAY 25
+TryHackMe: Burp Suite: Repeater complete, OWASP Juice Shop complete
+
+DAY 26
+TryHackMe: Overpass rooted
+
+DAY 27
+TryHackMe: Bolt rooted (Bolt CMS, authenticated RCE)
+
+DAY 28
+TryHackMe: Takeover rooted (subdomain enumeration)
+
+DAY 29
+TryHackMe: Corridor rooted — Level 4: Web fully complete
+
+DAY 30
+TryHackMe: Reversing ELF — 2 tasks complete
+
+DAY 31
+TryHackMe: Reversing ELF complete — first reverse engineering room done
+
+DAY 32
+TryHackMe: Windows x64 Assembly — 50% complete (registers, basic instructions)
+
+DAY 33
+TryHackMe: Windows x64 Assembly — Completed
+
+DAY 34
+TryHackMe: Windows Reverseing Room Completed
+
+DAY 35 
+TryHackMe: Basic Malware RE, Dumping Router Firmware, Dissecting PE Headers Rooms Completed
+
+DAY 36
+TryHackMe: What is Networking (recap) + Introduction to Networking complete (Level 6 started) + Network Services Complete
+
+DAY 37
+TryHackMe: Network Services 2 complDAY 38
+TryHackMe: Passive Recon + Active Recon complete (Level 6)
+
+DAY 39
+TryHackMe: Nmap (deeper room) complete (Level 6)
+
+DAY 40
+TryHackMe: Traffic Analysis Essentials complete (Level 6)
+
+DAY 41
+Revised core concepts.
+
+DAY 42
+TryHackMe: Snort Room complete (Level 6)
+
+<<<<<<< HEAD
+DAY 43-80
+TryHackMe: steadily working through the new AI Security track, a few questions/day across: Threat Hunting Simulator: Health Hazard,Wi-Fi Fundamentals and Reconnaissance, Agentic Fundamentals,AI in the Modern SOC, AI Security Threats, AI Threat ModellingAssessment, AI Threat Modelling, Prompt Engineering, The Building Blocks ofDAY 43
+TryHackMe: Linux Privilege Escalation Room 50 % complete
+
+DAY 44
+TryHackMe: Linux Privilege Escalation Room 75 % complete
+
+DAY 45-49
+Revising previous concepts and tools.
+
+DAY 50
+TryHackMe: Linux Privilege Escalation Room 75 % complete
+
+DAY 51
+TryHackMe: Linux Privilege Escalation Room complete
+
+DAY 52-54
+TryHackMe: Windows Privilege Escalation Room complete
+
+DAY 55
+TryHackMe: Windows PrivEsc Arena Room completed
+
+DAY 56
+TryHackMe: Sudo Security Bypass Room completed
+
+DAY 43-80
+TryHackMe: steadily working through the new AI Security track, a few questions/day across: Threat Hunting Simulator: Health Hazard,Wi-Fi Fundamentals and Reconnaissance, Agentic Fundamentals,AI in the Modern SOC, AI Security Threats etc.Level 7 CTF boxes (Kenobi, Blaster, Ignite, C4ptur3-th3-Fl4g,Pickle Rick) still pending — deliberately paused for this AI track.
+>>>>>>> 4f66f178577aafc1769c0b1610b6d6e542275823
+
+DAY 81
+TryHackMe: Sudo Buffer Overflow complete (CVE-2019-18634) — SudoVulns series fully done
+
+<<<<<<< HEAD
+DAY 82
+TryHackMe: Kenobi complete
+
+DAY 83
+TryHackMe: Blaster complete
+=======
+
+
+
+
+
+
+>>>>>>> 4f66f178577aafc1769c0b1610b6d6e542275823
